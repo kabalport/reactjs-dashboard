@@ -148,7 +148,7 @@ function DashboardContent() {
                             Trend
                         </Typography>
                         <IconButton color="inherit">
-                            <Badge badgeContent={1} color="primary">
+                            <Badge badgeContent={2} color="primary">
                                 <NotificationsIcon sx={{ color: "#fff" }} />
                             </Badge>
                         </IconButton>
